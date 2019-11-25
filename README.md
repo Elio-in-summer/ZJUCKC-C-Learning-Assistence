@@ -13,6 +13,14 @@ Simple: [Luogu1151]( https://www.luogu.org/problem/P1151 ) [Luogu1138]( https://
 
 Medium: [Luogu1567]( https://www.luogu.org/problem/P1567 ) [Luogu1795]( https://www.luogu.org/problem/P1795 )
 
+### 2019-11-25
+
+Simple: [Luogu1553]( https://www.luogu.com.cn/problem/P1553 ) 多种情况的考虑（可以想想代码能否进一步简化）
+        [Luogu1055](  https://www.luogu.com.cn/problem/P1055)
+        [Luogu1322]( https://www.luogu.com.cn/problem/P1322 ) 放松一下
+Medium: [Luogu2543]( https://www.luogu.com.cn/problem/P2543 ) 比较经典的问题（怎样降低时间复杂度？）
+        [Luogu1124]( https://www.luogu.com.cn/problem/P1124 )
+
 
 ## 关于Issue使用的几点说明
 
